@@ -12,14 +12,7 @@ deepmind
 有兽焉
 艺术
 
-比亚迪
-王传福
-
-大疆
 DJI
-
-宇树
-王兴兴
 
 !哪吒
 !车
@@ -65,6 +58,12 @@ ai
 美国
 日本
 韩国
+坦桑尼亚
+United States
+Japan
+South Korea
+Tanzania
+国际
 
 芯片
 光刻机
